@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368535498890",
+    "project_id": "hamzahproject-5edcd",
+    "storage_bucket": "hamzahproject-5edcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368535498890:android:9ec0c3ac3371fc50303d73",
+        "android_client_info": {
+          "package_name": "com.example.zah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368535498890-kva2vvbjmiacesjdk56lbgm0iadle6j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0CoiMR4EfrGsQjV1gJUAOuyp90yFl1NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368535498890-kva2vvbjmiacesjdk56lbgm0iadle6j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
